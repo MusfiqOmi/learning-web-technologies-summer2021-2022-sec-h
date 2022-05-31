@@ -1,0 +1,23 @@
+﻿<employee>
+  <info>
+    <id>1</id>
+    <name>John Doe</name>
+    <adress></adress>
+    <department></department>
+    <salary></salary>
+  </info>
+  <info>
+    <id>2</id>
+    <name></name>
+    <adress></adress>
+    <department></department>
+    <salary></salary>
+  </info>
+  <info>
+    <id>3</id>
+    <name></name>
+    <adress></adress>
+    <department></department>
+    <salary></salary>
+  </info>
+</employee>
